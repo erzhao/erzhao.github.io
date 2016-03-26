@@ -2,12 +2,15 @@ body {
     margin-left: 35px;
     margin-top: 30px;
     margin-right: 35px;
+    max-width: 470px;
 }
 
 h1 {
     font-family: "Work Sans";
     font-size: 25px;
     font-weight: 300;
+    line-height: 130%;
+    
 }
 
 div {
